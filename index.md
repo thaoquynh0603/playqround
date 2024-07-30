@@ -1,6 +1,6 @@
 ---
-title: This project
-layout: Hello
+title: Hello
+layout: home
 ---
 
 # Dataqround Roadmap
