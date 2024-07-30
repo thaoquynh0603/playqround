@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://thaoquynh0603.github.io/playqround/
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+color_scheme: main
 # plugins:
 #   - jekyll-default-layout
 # aux_links:
