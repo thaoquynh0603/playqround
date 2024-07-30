@@ -1,6 +1,6 @@
 ---
 title: good_day
-layout: abc
+layout: default
 ---
 
 Hello this is first blog
