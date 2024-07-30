@@ -1,35 +1,107 @@
 ---
-title: Home
-layout: home
+title: This project
+layout: Hello
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Dataqround Roadmap
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+First Iteration Duration: 3 Months
 
-More specifically, the created site:
+Goal: To create a weekly blog post simplifying and explaining data science, machine learning, and AI concepts, showcasing your knowledge and skills.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Objective: 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- Set up the page
+- Launched 10 blogs
+- Have 100 readers
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Month 1: Planning and Initial Setup
 
-To get started with creating a site, simply:
+### Week 1: Setup Blog Infrastructure
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Objective: Set up the technical foundation of the blog.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Activities:
 
-----
+- Create a GitHub repository for your blog.
+- Set up GitHub Pages to host your blog.
+- Choose and customise a Jekyll theme or another static site generator.
+- Write some basic pieces for the website
+- Set up the publish and SEO calendar.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### Week 2: Write and Publish First Blog Post
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Objective: Publish the first blog post.
+
+Activities:
+
+- Research and outline the first topic.
+- Write the first blog post, simplifying the concept while being comprehensive.
+- Review and proofread the content.
+- Publish the post on GitHub Pages.
+- Share the post on social media and relevant forums.
+- Collect feedback
+- Respond to comments and questions on your blog and social media.
+
+### Week 3 and 4: Publish the second and the thirst post.
+
+## Month 2: Content Creation and Optimization
+
+### Week 1: SEO and Performance Optimization
+
+Objective: Improve blog visibility and performance.
+
+Activities:  
+
+- Implement basic SEO practices (keywords, meta tags, alt text).  
+
+- Optimize images and code for faster loading times.  
+
+- Monitor site performance using tools like Google Analytics.
+
+### Week 2, 3, 4: Write and Publish Fourth, Fifth and Sixth Blog Post
+
+## Month 3: Advanced Content and Networking
+
+### Week 1: Ads
+
+Objective: Introduce your content to more audience.
+Activities:
+
+- Learn the basic or running ads
+- Create an short simple ads
+- Run it
+- Evaluate the result
+
+### Week 2, 3, 4: Write and Publish 7th, 8th and 9th blog.
+
+Month 3+1: Review and Plan Next Steps
+
+Objective: Evaluate progress and plan future actions.
+
+Activities:
+
+- Review overall performance and engagement metrics.
+- Reflect on what worked well and areas for improvement.
+- Plan the next phase of the project (continue blogging, start a new project, job applications).
+
+# Tools and Resources
+
+**Blogging platform:** GitHub Pages with Jekyll or another static site generator. 
+
+**Analytics**: Google Analytics, GitHub traffic insights.  
+
+**SEO tools**: Google Keyword Planner, Yoast SEO (if using WordPress).
+
+**Promotion Channels:**
+
+**Social media**: 
+
+- LinkedIn, Twitter, Reddit (subreddits related to data science and AI).
+- Data science and AI forums: Towards Data Science, KDnuggets, Data Science Central.
+
+**Networking:**
+
+- Join online communities and forums.
+- Attend virtual meetups and conferences.
+- Connect with professionals on LinkedIn and engage with their content.
