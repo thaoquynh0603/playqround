@@ -3,6 +3,7 @@ description: A blog about data and AI
 theme: just-the-docs
 
 url: https://thaoquynh0603.github.io/playqround/
+logo: "/assets/images/logo.png"
 # plugins:
 #   - jekyll-default-layout
 # aux_links:
