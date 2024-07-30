@@ -3,8 +3,8 @@ $body-background-color: #f5f6f8;
 $body-heading-color: #fdb600;
 $body-text-color: #322119;
 $link-color: #fdb600;
-$nav-child-link-color: #fdb600;
-$sidebar-color: rgba(253, 182, 0, 0.2);
+$nav-child-link-color: #fff;
+$sidebar-color: rgba($body-heading-color, 0.2);
 $base-button-color: #74828e;
 $btn-primary-color: #fdb600;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
